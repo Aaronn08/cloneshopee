@@ -22,8 +22,7 @@
 }
 
 .item1{
-
-    background-image: url(assets/genshin.png);
+    background-image: url("genshin.png");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -34,8 +33,7 @@
 }
 
 .item2, .item3{
-
-    background-image: url(assets/genshin.png);
+    background-image: url("genshin.png");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
