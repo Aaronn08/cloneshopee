@@ -50,6 +50,7 @@ section.content {
     align-items: center;
     padding: 25px;
     position: sticky;
+    top: 0;
 }
 
 section.content nav a {
